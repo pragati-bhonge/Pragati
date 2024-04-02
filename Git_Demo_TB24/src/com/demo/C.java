@@ -13,5 +13,9 @@ public class C {
 	{
 		System.out.println("Hello");
 	}
+	public void m3()
+	{
+		System.out.println("This is m3");
+	}
 	
 }
